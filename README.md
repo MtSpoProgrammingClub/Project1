@@ -6,3 +6,6 @@
 * [Jupyter](http://jupyter.org)
 * [iPython](http://ipython.org/notebook.html)
 * [Pastebin](http://pastebin.com/Sbp52FP4)
+ 
+## Ja-Ja-Java
+* [Learn Java the hard way](https://programmingbydoing.com)
