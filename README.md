@@ -10,3 +10,5 @@
  
 ## Ja-Ja-Java
 * [Learn Java the hard way](https://programmingbydoing.com)
+
+##Download [Processing](https://processing.org/download/?processing) cuz its real nass
