@@ -10,10 +10,10 @@ void setup()
 {
   size(950,450,P2D);
   //smooth();
-  addMouseWheelListener(new java.awt.event.MouseWheelListener() { 
-    public void mouseWheelMoved(java.awt.event.MouseWheelEvent evt) { 
-      mouseWheel(evt.getWheelRotation());
-  }});
+ // addMouseWheelListener(new java.awt.event.MouseWheelListener() { 
+ //  public void mouseWheelMoved(java.awt.event.MouseWheelEvent evt) { 
+  //    mouseWheel(evt.getWheelRotation());
+  //}});
 }
 void draw()
 {
