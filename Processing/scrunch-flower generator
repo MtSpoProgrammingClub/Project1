@@ -1,5 +1,7 @@
 import traer.physics.*;
  
+//Created By: Mitchell Whitelaw
+ 
 ParticleSystem PS = new ParticleSystem(0.0, 0.5);
 int pcount = 400;
 int ring_radius = 135;
